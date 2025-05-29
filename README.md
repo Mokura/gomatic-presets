@@ -9,6 +9,20 @@ Fancy new gauges for your favorite Final Fantasy XIV jobs.
 - By default, all gauges are hidden except during combat or duty.  Gauges for mechanics you are underleveled for will also be hidden.
 
 ## Color Splash gauges
+
+### Paladin
+![image](https://github.com/user-attachments/assets/8d7528b9-2ffc-4878-9a23-efa371a639a4)
+
+- Background swirl: Iron Will (tank stance) de/activated.
+- Top markers: Requiescat stacks, hides when empty.
+- Middle gauge: Oath Gauge.  Sound effect at 100.
+- Bottom left (1): Divine Might, highlights when proc'd.
+- Bottom left (2, 3, 4): Atonement combo highlights.
+
+```
+H4sIAAAAAAAACt2V227bOBCGX6WYa26gs2Te1U6aBpu0RhUge0CwoKShTFQSDYlqtjX87gUpWbYlLxZGEyCtCRjkT3KGo2+G3MAHViJQWMhC1m/idcGa1Zvl7SUQuK9Z+hnrBujfG3gQWY5qISsucqAbiEW5LnDO6gU34weRqRVQO7AuLALza2MPKIRcN/SBwLualbjTA083zoHAHRPVTuY8Cb3MyNdHsmUZ8bIeqb2+bItmsI3ujAXuSHeAQmYHrheaiVuWYHGP/6plLdeNjkAPgAIQuKpYUmAGlLOiQQJL2QglZAV0syWw99799IYsH5wb4Z2sFFC768TiGwK1IwJvC5FXQL0tgQ9teeR98Knq9tgl/KE3X1j/73rGI9dPjByv5NM831mb58c4hjP2R/MJ3FRfsFZDyHr/X1jL/TeoMRWNOZF1EF8fkb8lcCcKbJSs8P7rGs2qURCBa3LjT6C/2bZlAoplW2XdersfDWaA2mZNl3ndon3awZbArSiFusUvWHxiVY67aN+LDD+2qhEZLmSZMHXZqq+7yT6pe3MfmVpdszbHXgYCb7NMVn1R/LNkOmcV1t0hDnOjM2e834kKqOtvyQZuFJY3GVAnCF0yKZolK1ApXCKri75u5qzpxl26/EeJdDu0/qDz2w+9sJu44hxT1dinZWck783Mj2ttZ+a07IzkeM1SUeVAHUcDjVNWYLwSXKfExZS7Pxu4h06HvTNwJzPBBdYnSR9+q+eBHSum2ubHSQfeIWnbDaJnJK3juSrX+xheBH3gJT4PJuinsjOSz0bvTEr+52YfafZj2r+zb1gyJUX8JGWz0s5woJ5+zmq51vT1S2oRe9ceyTB7LyqlZw/v54OvPvNDP83GXc4jFvim6/HU1fvgkcCikG2mjXU3t4ngxN9upckJ49tYiizdzuw+EoifENd7WzMe8uTH4hinkr9/PRydSuOkOQVBJ8+z3vhHlT+znNd+x3tZErB0UuhT2RnJZxZ6YDu/1B0fBoek3cgJXzvpgyo6fs3HsjOSzyXter826ei1k05YEKXRhPRUdkbyuaT94OVIvxjMx+13u2oHQNQOAAA=
+```
+
 ### Dancer
 (placeholder)
 
