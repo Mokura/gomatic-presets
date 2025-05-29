@@ -43,6 +43,17 @@ H4sIAAAAAAAACt2VbW/bNhDHv0pxr7lAz5L5rnbSNFjSGlOAbC2CgpKOMlFJNCSqWWv4uw+kZNmWPBRG
 
 ### Ninja
 
+![ffxiv_dx11_05-29-2025_19-12-37](https://github.com/user-attachments/assets/3f18a216-1111-4b55-b4c0-bec725df6c11)
+
+- Background swirl: Kazematoi available
+- Top markers: Kazematoi stacks.  Sound effect at 5/5.
+- Middle gauge: Ninki gauge.  Sound effect at 100.
+- Bottom markers: Mudra stacks.
+
+```
+H4sIAAAAAAAACs1Va2/aMBT9K9X97FV5kAT8rdDH0ApDC1L3EJpMch2sJjFKTLsW8d8nOyFAYN2qatNiKbKPfc/1zTl21jBmGQKFgUxlcRYuU1YuzsbDMRCYFiy6x6IE+m0NdyJOUA1kzkUCdA2hyJYp9lkx4GZ8J2K1AGr71rlFoH9j+IBCwHVDDwhcFyzDLe53dOMcCIyYyLcweoEbuAa+2YM5tywDXhYttMYnq7RsuNHtMd9t4Q5QiG3f7QRm4pbNMZ3iDzUp5LLUFegBUAACVzmbpxgD5SwtkcBElkIJmQNdbwjsslePDoiTJrkBrmWugNpVJxTPCNTuErhIRZID7WwIjFfZQfYmpypWhynhsw4+t36fuse7rjc3cLiQj/1ky9ZPDuVo9lhvzSMwzB+wUE3JOv4rFnL3DQqMRGl2ZO3VV1fkbQiMRIqlkjlOn5ZoVrWK8F3jjS9A39m2ZQoK5SqPq/V2PWpogNpmTeW8atHOdrAhcCsyoW7xAdNPLE9wW23t2zpiLPJ7ccNWCdY4ELiIY5nXxv8+YdqXCosq0b7+FZ/JMBI5UN/ZkOOjMGEpKoUTZEVan4Y+K6txZYJfGL+K0PhdZf1OUE1ccY6RKu3TsNOCdzR9oDBnfjfqHtCchp0WHC5ZJPIEqONomcKIpRguBNdCnx+r6fWcIzUrhpGMBRdYnBRw/2P9sYYf2DNmTEnxdgm9jpZwqDAbxrpUr0f+c0E78dxn0ZGgx7DTgl8taHM8A+fv6nkR6bxvF9O1Tp3Hxi3ho5TlIlRMYSNjdB8Xcqnl1P81i9jbNiPN7FTkSs/u35Y9L/Ci+IUu513me6bb4ZGr42BGYJDKVazJqnvUVHDitV1pVDe5DVPX0u2V3RmB8BFxuePq8YDP31bHpGUWb3eXO/r0t31xSoQX/PFexPhxpUoR40Bmc6YuV+rpX1wGs81PsRZ4fQMJAAA=
+```
+
 ### Samurai
 
 ### Reaper
