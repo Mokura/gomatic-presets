@@ -1,5 +1,5 @@
 # Gauge-O-Matic Presets
-Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might arrive later, largely due to personal lack of skill with some jobs.
+Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might arrive later, largely due to personal lack of skill with some jobs.  Suggestions are welcome!
 
 ## How to Use
 1. Open the Gauge-O-Matic menu with /gomatic.
@@ -45,6 +45,22 @@ H4sIAAAAAAAACt2VbW/bNhDHv0pxr7lAz5L5rnbSNFjSGlOAbC2CgpKOMlFJNCSqWWv4uw+kZNmWPBRG
 
 ### Samurai
 
+### Reaper
+
+### Viper
+
+### White Mage
+
+### Scholar
+
+### Astrologian
+
+### Sage
+
+### Bard
+
+### Machinist
+
 ### Dancer
 ![image](https://github.com/user-attachments/assets/ea66d6a5-44ae-4ab8-a33e-1a49b72465ea)
 
@@ -57,3 +73,11 @@ H4sIAAAAAAAACt2VbW/bNhDHv0pxr7lAz5L5rnbSNFjSGlOAbC2CgpKOMlFJNCSqWWv4uw+kZNmWPBRG
 ```
 H4sIAAAAAAAACu1WbU/bMBD+K9N99lBemqT1N1pehgasWpDYi9DkJufUIo0jx4FBlf8+OUnTNnRjCMSmabVU2Y/jO989z9lewjlbIFCYyFSqN2GesmL+5uB8AgQuFIuuURVAvy7hUsQJ6onMuEiALmHKUtQap8hUOuE1NGZFMwZqEzhSbIG1VaDgD0zjHAg0Kwx+CRTQCwZBM3HIOUa6sHfDTg9emxkDhaEdBcNtM7thpweHOYtElgB1nD2LQBixFMO54BqobYCpLIQWMjPxfQLqDUcG/Qz0beDsWRWBUJZZfHGXYx10PToTKRZaZgaqjTY+zmQsuEBVoxVpM9os3UonVAROxULoU7zB9CPLEgSqVYkE3okYP5S6EDFO5GLG9EGp71aTLV+txSNZKi7TuEWBwH4cy6yl+9uUGX40qmYbJkMZm6UYr6zVzs9EBtS1KrKEE42LkxioPXQs8pfLgfNZMIgfyOEh7PTgJ8rBD4LH5WCSFoz+lAxCzXRZPF8Evm9E0Kc9FIs8xTFTLeeXItZzoLZvmbyMj1eEB9w09ODnQjhjIlvBG4wcb8GWVYMHqoe2+LRMi842uiPmuz3cAQqx7buDoJ44ZTNML/C7niqZFyYCMwAKm6ngLC1wi/uKwNp78zML4qRzXgNHMjPCaTqhuDeiGBLYT0WSAR1UBM7LxZb3Xvp7crOHK7U5o1o7j2xixIeuN2uEPZe342Rld5xsE9Pttt2kR+Aku0Glu+DN+i+o5DobCiNR1HuzNiJtY/MqAt0x2ChxR/W4XfXYjvt7p2m/YDoBvky1HBa5EvqYlQk+v2QCv3du2uS1CmjjhvtfQNsF9A+UjdWVjW3tWdUva+KVropdl8N7do8LpqUIb6Us5sY8dm+D6DpWMjdvBPO+tIi9alekm70QmTazm+lGL3CDRpT+YOZxv+5u6H3j7hjwyDXr4IrAJJVlbIw1RNTx7/hbfVkTXftu7FumPbF7RSC8RczXtkY84LPnxTHtPUi9tRicXWLYRcLLnJUHLIsw1Jg//6S0veqq+gEvG5/aiwwAAA==
 ```
+
+### Black Mage
+
+### Summoner
+
+### Red Mage
+
+### Pictomancer
