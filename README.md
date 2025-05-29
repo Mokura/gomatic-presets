@@ -2,10 +2,18 @@
 Fancy new gauges for your favorite Final Fantasy XIV jobs.
 
 ## How to Use
-(placeholder)
+1. Open the Gauge-O-Matic menu with /gomatic.
+2. Click on the icon for the job you want gauges for.
+3. Look for the gauge you want below.  After a description of the gauge's function, there's a code block with ~~absolute nonsense~~ encoded settings text.  Copy it to your clipboard (Github should have a button for this, too.)
+4. Go back to the Gauge-O-Matic options, and press the "presets" button.
+5. Press the Import from Clipboard" button.
+6. Press the "Overwrite Current" button.  This will overwrite any current Gauge-O-Matic preset you may already be using.  Please, backup accordingly.
+7. Close the settings window and enjoy.
+
 
 ## Notes
-- (currently) All gauges are anchored to your parameter bars.
+- These gauges were made using Material UI Reborn, with Silver parameter bars.  You might want to tweak positioning on other UI (including vanilla).
+- (currently) All gauges are anchored to your parameter bars, at 100% scale.
 - By default, all gauges are hidden except during combat or duty.  Gauges for mechanics you are underleveled for will also be hidden.
 
 ## Color Splash gauges
