@@ -1,0 +1,17 @@
+# Gauge-O-Matic Presets
+Fancy new gauges for your favorite Final Fantasy XIV jobs.
+
+## How to Use
+(placeholder)
+
+## Notes
+- (currently) All gauges are anchored to your parameter bars.
+- By default, all gauges are hidden except during combat or duty.  Gauges for mechanics you are underleveled for will also be hidden.
+
+## Color Splash gauges
+### Dancer
+(placeholder)
+
+```
+H4sIAAAAAAAACu1WbW/bNhD+K8V9ZgO9WJLNb7HTZMGSzKgCZFsRDLR0lInIokBRyZpA/30gJcuy4iFIU7RFURMwyIfmHe/ueeh7giu2QaCwkLlU7+IyZ9X63cnVAghcK5bcoaqAfnqCG5FmqBey4CID+gRLlqPWuESm8gW30JxV7RqoS+BUsQ1aq0AhnJjBORBoTxj8BihgEE2iduMD55joyj0MeyN4Z2YOFKZuEk33zRyGvREclywRRQbU844cAnHCcozXgmugrgGWshJayMLE9yfQYBoZ9C+g7yP3yGkIxLIu0uvPJdqg7epS5FhpWRjIGm19XMpUcIHKog3pMtoe3UsnNAQuxEboC7zH/CMrMgSqVY0EfhMp/lHrSqS4kJsV0ye1/rzd7OrVWTyVteIyTzsUCBynqSy6cv+zZKY+GlV7DZOhgq1yTLfWrPNLUQD1nYY8J0AsNmWOc6a66t+IVK+BuqFjYp6fbUsfcTMwgP+nxCUTxRbmfBVNUguf7cGOY8ETNUI7fFnnVW8b/RkL/RHuAYXUDf1JZDcu2Arza/xXL5UsKxOBWQCFYSo4yyvcY0FDYOe9/ZgDadY7t8CpLAyF2kksHg0XpgSOc5EVQCcNgat6s+d9lP4R8dzplnfezLLnhUvM+NQPVi3F1/Jhnm3tzrP9wvS37S4ZEDgv7lHpPnhz/m9UcpcNhYmo7N2cQaRdbEFDoFdAy8XnOgr9Xkeu5x85zVgPPbu+jhg+VKUS+ozVGb5dD1Fo9HCucXOemsp4LvlW6hi8XL/Usa+On0ATTq8J13lJE68gf6yZrqsv4/2hl/939ogbpqWIH6Ss1sY89i1AcpcqWZpWwPQNDnG345b0u9ei0GZ3mG4MIj9qSRlOVgEP7XTA98Efw4QnvjkHtwQWuaxTY6wthI3/wNf2l7bQ1ndr3zHjldNbAvEDYrmzNeMRX70tjnGjEezI4B0iw6EifJ238oQVCcYay7e/lG4weikd8oM3koPqDBvJ57A3gl/ZSIZR8HIjaZIWzb5XA/mWZ2NIgjBsbpv/AJiIlr1oDAAA
+```
