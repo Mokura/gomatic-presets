@@ -1,5 +1,5 @@
 # Gauge-O-Matic Presets
-Fancy new gauges for your favorite Final Fantasy XIV jobs.
+Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might arrive later, largely due to personal lack of skill with some jobs.
 
 ## How to Use
 1. Open the Gauge-O-Matic menu with /gomatic.
@@ -30,6 +30,20 @@ Fancy new gauges for your favorite Final Fantasy XIV jobs.
 ```
 H4sIAAAAAAAACt2VbW/bNhDHv0pxr7lAz5L5rnbSNFjSGlOAbC2CgpKOMlFJNCSqWWv4uw+kZNmWPBRGuyGNCRjkn+QdT787cgPvWIlAYSELWb+K1wVrVq+Wt5dA4L5m6WesG6AfN/AgshzVQlZc5EA3EItyXeCc1Qtuxg8iUyugdmBdWATm18YeUAi5bugDgTc1K3GnB55unAOBOyaqncx5EnqZka+PZMsy4mU9Unt92RbNYBvdGQvcke4AhcwOXC80E7csweIe/1bLWq4bHYEeAAUgcFWxpMAMKGdFgwSWshFKyAroZktg77376Q1ZPjg3whtZKaB214nFNwRqRwReFyKvgHpbAu/a8sj74FPV7bFL+FNvvrC+73rGI9dPjByv5NM831mb58c4hjP2R/MJ3FRfsFZDyHr/B6zl/hvUmIrGnMg6iK+PyN8SuBMFNkpWeP91jWbVKIjANbnxF9DfbNsyAcWyrbJuvd2PBjNAbbOmy7xu0T7tYEvgVpRC3eIXLP5gVY67aN+KDN+3qhEZLmSZMHXZqq+7yT6pe3PvmVpdszbHXgYCr7NMVn1RfFoynbMK6+4Qh7nRmTPe70QF1PW3ZAM3CsubDKgThC6ZFM2SFagULpHVRV83c9Z04y5d/qVEuh1af9D57Yde2E1ccY6pauzTsjOS92bmx7W2M3NadkZyvGapqHKgjqOBxikrMF4JrlPiYsrdnw3cQ6fD3hm4k5ngAuuTpA+/1c+BHSum2ubHSQfeIWnbDaKfSFrHc1Wu9zH8J+gDL/F5MEE/lZ2RfDZ6Z1Lyvzb7SLMf0/6dfcOSKSniJymblXaGA/X0c1bLtaavX1KL2Lv2SIbZe1EpPXt4Px989Zkf+mk27nIescA3XY+nrt4HjwQWhWwzbay7uU0EJ/52K01OGN/GUmTpdmb3kUD8hLje25rxkCc/Fsc4lfz96+HoVBonzSkIOnn+v+fg6FqYWc5zfwC8LAlYOrkFprIzks+8BQLbeVEPQBgcknYjJ3zupA9K7PipH8vOSD6XtOu9bNLRcyedsCBKownpqeyM5PhM0n7w0kg/bv8B71ve6w4PAAA=
 ```
+
+### Warrior
+
+### Dark Knight
+
+### Gunblade
+
+### Monk
+
+### Dragoon
+
+### Ninja
+
+### Samurai
 
 ### Dancer
 ![image](https://github.com/user-attachments/assets/ea66d6a5-44ae-4ab8-a33e-1a49b72465ea)
