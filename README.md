@@ -90,5 +90,16 @@ H4sIAAAAAAAACu1WWW/bMAz+KwOftcJHbCd+W9JjxdoumAt0B4pBsSlHqGMZstyuDfLfB8lHHC87ug7b
 ### Summoner
 
 ### Red Mage
+![image](https://github.com/user-attachments/assets/319eb241-9fb2-44f5-9dea-5f7379df2a85)
+
+- Background swirl: Manafication active.  I'd like to replace this with Balance Gauge later.
+- Top markers: Magicked Swordplay.  Hidden when empty.
+- Top gauge: White Mana Gauge.
+- Bottom gauge: Black Mana Gauge.
+- Bottom markers: Mana Stacks.
+
+```
+H4sIAAAAAAAACu1Wa2+bMBT9K9P97EU8Qgh8a9LHqjVdVCJlD0WTA9fEKuAInHZtxH+fzCuEZJq6ZQ9Ny5UifMy918fnYNjCLY0RXBiLSKSvvHVEs9Wru/MJEJil1L/HNAP30xbmPAhRjkXCeAjuFjweryMc0XTMivGcB3IFrj7QehqB0VVRD1ywmQq0gMBlSmOs8UFfBWNAYEJ5UsOoqSjgqxbMmFaC52kHrfDpJsqa2mg6dGB2cANcCPSB2beLiRu6xGiGX+Q0FetMMVADcAEIXCR0GWEALqNRhgSmIuOSiwTcbU5g1738qYQgbJoXwKVIJLh6eeHxZwRXHxI4i3iYgNvPCdxu4r3uTU+ZbvZbwnuVrHb1A7ivDaenfX8RDhua1rKAvZV4HIV13VG4L0yz2mqRFoHr5AFT2ZBX+R8xFbvdSNHnWbE2rcW04mblBCY8wkyKBGdPayzu6tAZmHbNRzfMnpbnpDJYmbFzF+QE3vAA321kxgMci3hJ5flGPtWEKpNWefMVlzihCa1gIHAWBCKpTP55SpUHJaZlt7bWqlxOfpvRHcu2/OC/0Y8Y/R+wt9bYW9dOaO9RRP3709p7SiOUEqdI06hy+Ihm5bgU9htmLjMUPldOtOy+XU5cMIa+zPTjsNGBd2VG5YRpm3tljsNGB/bW1OdJCK5hqK33fBqht+JMidc7VMgaOrVCtlE4riowEQFnHNMirStbe6+Ucjc85vIGHzC6o0mItWYvEFRp6Unq3/+YoASK7hOegDsYKnmvJcbXAbjm0LbI6cRWlC7i9Y7GL1HfdoYDf3mg/iFsdOCXqu84+6+fPyW/J6ncZCfQXmtrrzu2fqj9W/qMMZWCe49CZCvVGhsP+PdBKtbKC+prTyN6HQvSzM54ItVs+2htPYGtL7cWytjS7pevuT7zTZUHCwLjSGwCVaw8dAs+R/7qOwuHFL2LSkNNxQsvFwS8R8T1rpbDbLb8OR7TjrGs3cFvHDv4j4nw11lpkX8FJrsO1BYMAAA=
+```
 
 ### Pictomancer
