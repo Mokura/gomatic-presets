@@ -2,7 +2,7 @@
 Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might arrive later, largely due to personal lack of skill with some jobs.  Suggestions are welcome!
 
 ## How to Use
-1. Open the Gauge-O-Matic menu with /gomatic.
+1. Open the Gauge-O-Matic menu with `/gomatic`.
 2. Click on the icon for the job you want gauges for.
 3. Look for the gauge you want below.  After a description of the gauge's function, there's a code block with ~~absolute nonsense~~ encoded settings text.  Copy it to your clipboard (Github should have a button for this, too.)
 4. Go back to the Gauge-O-Matic options, and press the "presets" button.
