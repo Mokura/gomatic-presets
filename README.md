@@ -19,10 +19,10 @@ Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might ar
 ## Color Splash gauges
 
 ### Progress
-**Currently Available:** PLD, DRK, GNB, NIN, DNC, RDM, SMN
-**In Progress:** WAR, DRG, SAM, SCH, SGE, MCH
-**Skill Issue:** RPR, WHM, AST, BRD, BLM, PCT
-**Code/Gauge Issue:** MNK, VPR
+**Currently Available:** PLD, DRK, GNB, NIN, DNC, RDM, SMN  
+**In Progress:** WAR, DRG, SAM, SCH, SGE, MCH  
+**Skill Issue:** RPR, WHM, AST, BRD, BLM, PCT  
+**Code/Gauge Issue:** MNK, VPR  
 
 ### Paladin
 ![image](https://github.com/user-attachments/assets/8d7528b9-2ffc-4878-9a23-efa371a639a4)
