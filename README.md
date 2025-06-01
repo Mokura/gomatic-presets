@@ -19,9 +19,9 @@ Fancy new gauges for your favorite Final Fantasy XIV jobs.  Some gauges might ar
 ## Color Splash gauges
 
 ### Progress
-**Currently Available:** PLD, DRK, NIN, DNC, RDM, SMN  
-**In Progress:** WAR, GNB, DRG, SAM, SCH, SGE, MCH  
-**Skill Issue:** RPR, WHM, AST, BRD, BLM, PCT  
+**Currently Available:** PLD, DRK, GNB, NIN, DNC, RDM, SMN
+**In Progress:** WAR, DRG, SAM, SCH, SGE, MCH
+**Skill Issue:** RPR, WHM, AST, BRD, BLM, PCT
 **Code/Gauge Issue:** MNK, VPR
 
 ### Paladin
@@ -53,7 +53,7 @@ H4sIAAAAAAAACt2VbW/bNhDHv0pxr7lAz5L5rnbSNFjSGlOAbC2CgpKOMlFJNCSqWWv4uw+kZNmWPBRG
 H4sIAAAAAAAACu1WbWvbOhT+K+N81i1+iWPH35r0ZWXtFuZAt13KRbGPHFFbCrbcbiv570PyW+J6XEazDcYsMNLjoyOd85xH8hO8pTlCCAuZyeJVtM1ouXl19v4NEFgVNL7HooTw3ye45UmKaiEF4ymETxDxfJvhnBYLZsa3PFEbCO2pdWIRmF8afxCCz3RDDwhcFDTHFp9OdGMMCNxQLloYPd/1XQNf7sGMWZYBz4oB2uDLKis73+jO6NQd4A6EkNhTd+KbD9d0jdkKP6tlIbeljkAPIAQgcC7oOsMEQkazEgksZckVlwLCpx2BfvX60ROStFvcABdSKAjtuhPxrwihHRA4zXgqIJzsCLyt8oPVuzVVUR0uCR/0ZJ3VjxD+48xOrP/fxIwFrrc2cLSRj/O09TtPD4npdtts0iNwJR6wUF3wev4nLGSfjQJjXpq9WXuRNrF5OwI3PMNSSYGrL1s0VoNwpq7fxmM7rgkokpVIanu7GXVuILSNTV2DtVFfgLAjcM1zrq7xAbP3VKTYRvuaJ/iuUiVPcCHzNVVnlfrSfmzKu3E3z6RMLmmVYoMDgdMkkaLRx39LqstXYVHvYr9Man9m+RsuIJw6O/LLFLOm0yAO/ipmRDF/gE6sTie2dWLtfrIIzmhxr+2OpAPX0jq4UphfJRD6E4c8E8WSZqgULpEWWaOLOS3rcV0O35GAjuo83/aR1C604W19j0z82vKcMYxVaY/DzgDu3cwPr6PWzTjsDOBoS2MuUggdRzMYxTTDaMOZroGTEaIt69mBWHu4kQlnHIvRM3A/e8epgEhRVZVHoN7bp97xfM8/Ivk/heuZ53tx8ozr57AzgH+Qay/oLj/f/o1Un8Z6Uy+nemZUPuT2ggtebq5iKRpmTZ71v+T+iRpYujEGdzoLqN3bJmcrjDffOdm9oNeKVf8NmZSbtJnHGSav38xxUnfNH7hIow1N5OPLExiMJvAN/Yo5VZJHj1KWGy1M7EQS3yeF3Gqx6IxaxG7bHem+rrhQw3zvVe14l7GATj3TnbDY1fM0N4tMVol2Vt9tJoKRV2vZc33I8o90dUU8Im57XzPms/XL4hiWkrd37I7dr2Mk6BL6hT+Wu7vdNzQmr9elDQAA
 ```
 
-### Gunblade
+### Gunbreaker
 ![image](https://github.com/user-attachments/assets/3e7a6f2d-0458-400f-924f-11d6110bc72a)
 
 - Background swirl: Royal Guard (tank stance) de/activated.  **Note:** Currently animates the swirl when you gain a cartridge charge.  This is unintended, but cool, I suppose.
