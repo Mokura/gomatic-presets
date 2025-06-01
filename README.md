@@ -54,6 +54,18 @@ H4sIAAAAAAAACu1WbWvbOhT+K+N81i1+iWPH35r0ZWXtFuZAt13KRbGPHFFbCrbcbiv570PyW+J6XEaz
 ```
 
 ### Gunblade
+![image](https://github.com/user-attachments/assets/3e7a6f2d-0458-400f-924f-11d6110bc72a)
+
+- Background swirl: Royal Guard (tank stance) de/activated.  **Note:** Currently animates the swirl when you gain a cartridge charge.  This is unintended, but cool, I suppose.
+- Top markers (1, 2): Aurora uses remaining.
+- Top markers (3): Heart of Stone un/available.
+- Middle gauge: Time until Gnashing Fang combo is ready (ready when full).  **Note:** Currently fills the bar to the recast timer for the rest of the combo before properly tracking the cooldown.
+- Bottom markers (1, 2, 3): Powder gauge.
+- Bottom markers (4): Bloodfest un/available.
+
+```
+H4sIAAAAAAAACt1VW2/aMBT+K9N59qrcA3kr9LJqbYcWpO4iNJn4OFgNMUpMWYvy3yfnBgSqlfVh3bCEnM/2uX3fsddwS+cIAQxlIrN34SKh+ezd5e0ACIwzGt1jlkPwfQ13gsWohjLlIoZgDR/pE86pkiJcSZnPQkUVDnm5NKDRPcvkYkBz1IcNYjZjQtrVsUiVXgWf68E5EOC8Rz23nPZd341Yd7q1weGRrc/BhMAwkUumjXGa5EhUtjz41+wscy19l5Z6hh5HTicEwhXiYmOrz30+fV0eI5kLJWSqq/gFAtc1TgwCXyF4b1rGiVEUpOZh/LjQpB0iAQoCHwTDT0uVC4ZDOZ9SdbZUjxCUhWhorU2M5IphdkmXMdYLQOCUMZnWwvgxohmdo8Kscg0EzlM6TZBVBguyhiuF8ysGgemZjkf2tBKK+SLBAc1qgdwJpmZ6d5ne4LKsIQS1EtAFAhfaZ4N7jh5ltW6oSBuY86nvVPW83IGNiquzrIPW+GiZ5K1ttPvUszu4BQEw07MdzQuBazrFZIw/1SiTi1xnoD8ggO1aVNLbprAgsPFe/fQBFrfOS+BCpgoCs5qE4gkhMHsEThMRpxA4BYGr9AEz1fB3u5zvxLLDxp6GzN6J8ftA+rxnu9MSDmdyNYgba4N4l5w24jpQdxNdXQB9/htmclORDCORlxEZW9nW+bkFgRuRYK5kipUmjb0kPHvTCKZuBAKhXKasPQiBWaI73dHKTrfEtZgLdY0PmHymaYxNfkd0ymmkI/qzJiFQur4RKQSe0WkZz9lvmRFNUCkcIc2S9lrNq+9KLM80SHVC43da3a7v+NXCOecYqdw8DFsdeGNmUC3Yvr1j5jBsdeBwQSORxhBYliYwjGiC4UxwLYGTAzy7XsOzbz1Hc2v1RjLBBWYHyd8u4Nvi3/c0/2+bcM+ZutzbI3wftjrwkYS7feNFhGtQd4vf/1vsv/qd3JaA3b0CXPOtXwE9M/J7u2YOw1YHPloR1guu+n/9DnDc7hvw5gXgsKlHoz0B7MNWBz72DbDbN+A/FoDXKybFLyREMnp9DQAA
+```
 
 ### Monk
 
