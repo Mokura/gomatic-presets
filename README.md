@@ -72,8 +72,21 @@ H4sIAAAAAAAACt1VW2/aMBT+K9N59qrcA3kr9LJqbYcWpO4iNJn4OFgNMUpMWYvy3yfnBgSqlfVh3bCE
 ### Dragoon
 
 ### Ninja
+![image](https://github.com/user-attachments/assets/621ccc7c-0262-4890-b81b-a7af9b95dd10)
+
+- Background swirl: Mudra available.  Animates during Mudra _use_ due to peculiarities in ready state detection.
+- Top markers: Bunshin stacks.  Hidden when empty.
+- Middle gauge: Ninki gauge.  Sound effect at 100.
+- Bottom markers: Kazematoi stacks.  Sound effect at 5/5.
+
+```
+H4sIAAAAAAAACrVU2W7bMBD8lWCf2UCHdZhvsXPUaOIalYH0gFHQ0lImIomGRCVNDP97QUqWj7hpg6QmYJBD7ixXM9wVjFmOQGEoM1meRMuMVYuT8WgMBKYli++wrID+WMGtSFJUQ1lwkQJdQSTyZYYDVg65Wd+KRC2A2r51ahEYXBk+oBBwPdADApcly3GD+z09OAcCN0wUGxi9wA1cA1/twJxblgHPywO0xSd1VnXc6PaZ7x7gDlBIbN/tBWbjms0xm+IvNSnlstIV6AVQAAIXBZtnmADlLKuQwERWQglZAF2tCWyzNz8dkKRdcgNcykIBtZtJJJ4QqB0SOMtEWgDtrQmM63wve5dTlfV+Sviqg0+tv6fu89D15gaOFvJhkG7YBum+HN0d26t5BEbFPZaqK1nHf8dSbr9BibGozI2snfrairw1gRuRYaVkgdPHJZpTB0X4rvHGN6AfbNsyBUWyLpLmvN2uOhqgtjnTOK85tLUdrAlci1yoa7zH7AsrUtxU2/q2jRiL4k5csTrFFgcCZ0kii9b4PydM+1Jh2STa1b/hMxluRAHUd9bk+VOYsAyVwgmyMmtfw4BVzboxwR+M30Ro/Laxfi9oNi44x1hV9nHYOYC3NAOgMGd+GId7NMdh5wCOliwWRQrUcbRMUcwyjBaCa6FPn6vp9Ts1A6cRsyG4kYngAsuj+u1+q3+W8BN7wpwpKd6uoNfTCo4U5qNEV+r1yTM9u3TRg5TVIlJMYadrfJeUcqn11X3RIvZmzEi3OxWF0ru7r63vBV6cvDDlPGS+Z6Y9Hrs6DmYEhpmsE03WvENTz5G/zUljA5PbMIWWHq+czghED4jLLVefB3z+tjoO3eNte4Gje8GhUY6J8IJhPooEP9eqEgkOZT5n6rxWj8fddBbre7y3ley+1yPv1xp0PRf5clvDf+kVoR0H4T7Ncdg5gKPX9gpzbK/zv1+zeIX22kZ19XbtQ2s9W/8GeQCimzwJAAA=
+```
+
+### Ninja (old, buggy)
 ![ffxiv_dx11_05-29-2025_19-12-37](https://github.com/user-attachments/assets/3f18a216-1111-4b55-b4c0-bec725df6c11)
 
+**Note:** Currently not recommended for use due to unforseen animation bugs arising from tracking Mudra with counters.  (?)
 - Background swirl: Kazematoi available
 - Top markers: Kazematoi stacks.  Sound effect at 5/5.
 - Middle gauge: Ninki gauge.  Sound effect at 100.
